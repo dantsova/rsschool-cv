@@ -84,3 +84,9 @@ I also have experience with such database management systems as Oracle Database,
 ***Itransition***
 
 ---
+
+### Languages
+
+- **Russian** (Native)
+- **Belorussian** (Native)
+- **English** (Intermediate)
