@@ -57,3 +57,21 @@ function highAndLow(str){
 ```
 
 ---
+
+### Experience
+
+**Software engineer - BSTU/Minsk** <br>
+**2020 - Present** <br>
+My responsibilities include developing and maintaining the company's database. <br> <br>
+**Software engineer - Freelance** <br>
+**2018 - Present** <br>
+Application and website development. <br>  <br>
+**Internship with in the educational practice - Wedextim/Minsk** <br>
+**2019** <br>
+Development in the project team. <br>  <br>
+**Internship with in the undergraduate practice - Itransition/Minsk** <br> 
+**2020** <br>
+Development of a handwriting recognition application and analysis of the effectiveness of the methods used. <br> <br>
+I also have experience with such database management systems as Oracle Database, MySQL Database, MsSQL Server. I came across the development of web services, WPF applications. There is knowledge in development in Java, C++, Node.js, Python.
+
+---
