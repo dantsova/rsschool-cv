@@ -23,3 +23,18 @@ I am able to effectively allocate my energy and time, set the priority of tasks 
 My advantage is openness to new knowledge and constant development in the professional field.
 
 ---
+
+### Skills
+- C#
+- .NET Core/.NET Framework
+- ASP .NET Core, ASP .NET MVC/WebAPI
+- JavaScript
+- HTML
+- CSS
+- React
+- TypeScript
+- SQL
+- Git
+- Jira/Trello
+
+---
