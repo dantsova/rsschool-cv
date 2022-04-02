@@ -38,3 +38,22 @@ My advantage is openness to new knowledge and constant development in the profes
 - Jira/Trello
 
 ---
+
+### Code example
+
+**Highest and Lowest:** *In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.* <br>
+```javascript
+function highAndLow(str){
+    let arr = str.split(' ');
+    let min = parseInt(arr[0]), max = parseInt(arr[0]);
+    for(let i=1; i<arr.length; ++i){
+        max = parseInt(arr[i])>max ?
+            parseInt(arr[i]) : max;
+        min = parseInt(arr[i])<min ?
+            parseInt(arr[i]) : min;
+    }
+    return [max, min].join(" ");
+}
+```
+
+---
