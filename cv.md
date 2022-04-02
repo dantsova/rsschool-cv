@@ -75,3 +75,12 @@ Development of a handwriting recognition application and analysis of the effecti
 I also have experience with such database management systems as Oracle Database, MySQL Database, MsSQL Server. I came across the development of web services, WPF applications. There is knowledge in development in Java, C++, Node.js, Python.
 
 ---
+
+### Education
+
+**2016 - 2020 Specialist degree/ Software engineer** <br>
+***Belarusian State Technological University*** <br> <br>
+**2020 .Net Developing Course** <br>
+***Itransition***
+
+---
